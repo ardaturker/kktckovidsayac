@@ -1,0 +1,45 @@
+body{
+	background-color:darkgrey;
+}
+h1{
+	font-size:120px;
+	text-align:center;
+	margin-top:10px;
+}
+.counter{
+	text-align:center;
+}
+.counter span{
+	color:#fff;
+	border:8px solid #ddd;
+	padding:0 30px;
+	border-radius:0 25px;
+	margin:10px;
+	border-color:red;
+	color:black;
+}
+.box{
+	display: inline-block;
+	height: 1em;
+	line-height: 1em;
+	font-weight: bold;
+	font-size: 20em;
+}
+.date{
+	font-size:34px;
+	color:blue;
+}
+.datetext{
+	color:red;
+}
+.hastasayısı{
+	font-size:80px;
+	text-align:center;
+	margin:20px;
+}
+.totalhastasayısı{
+	font-size:80px;
+	text-align:center;
+	margin:20px;
+}
+
